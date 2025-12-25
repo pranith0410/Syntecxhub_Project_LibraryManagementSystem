@@ -55,6 +55,3 @@ java Main
 
 ## 👨‍💻 Author
 **Pranith Goud**
-
-## 📌 Internship
-This project is developed as part of the **Syntecxhub Internship Program**.
