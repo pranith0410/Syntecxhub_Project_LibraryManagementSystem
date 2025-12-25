@@ -23,8 +23,12 @@ Library.java → Library operations
 Main.java → Main program (menu-driven)
 
 ## 📁 File Handling
-The application uses file handling to store book records permanently in a text file (`books.txt`).  
-Data is automatically loaded when the program starts and saved whenever changes are made.
+This application uses file handling to store book records permanently in a text file named `books.txt`.
+
+- The file is created automatically when the program is executed for the first time.
+- Book data is saved whenever a book is added or removed.
+- Data is automatically loaded from the file when the program starts.
+- The `books.txt` file is not included in the repository as it is generated at runtime.
 
 ## ▶️ How to Run the Project
 1. Make sure Java is installed on your system.
