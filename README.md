@@ -30,6 +30,15 @@ This application uses file handling to store book records permanently in a text 
 - Data is automatically loaded from the file when the program starts.
 - The `books.txt` file is not included in the repository as it is generated at runtime.
 
+## 🗂️ Version Control
+
+This repository uses a `.gitignore` file to exclude auto-generated and compiled files such as:
+
+- `books.txt` (runtime-generated data file)
+- `*.class` (compiled Java files)
+
+This ensures that only source code and relevant project files are tracked in version control.
+
 ## ▶️ How to Run the Project
 1. Make sure Java is installed on your system.
 2. Open terminal or command prompt in the project directory.
