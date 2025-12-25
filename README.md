@@ -52,6 +52,9 @@ java Main
 - Working with collections in Java
 - Handling user input and exceptions
 - Building real-world CLI applications
+ 
+## 📸 Screenshots
+Sample screenshots of the application output are available in the `screenshots` folder.
 
 ## 👨‍💻 Author
 **Pranith Goud**
